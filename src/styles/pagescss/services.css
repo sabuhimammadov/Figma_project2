@@ -1,0 +1,252 @@
+/*services-container-1 */
+
+#services-section-1{
+    margin-bottom: 400px;
+    position: relative;
+}
+.services-container{
+    background: #1090CB1A;
+height: 743px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.services-title{
+    font-family: Poppins;
+font-size: 40px;
+font-weight: 500;
+line-height: 60px;
+letter-spacing: 0em;
+color: #000000;
+margin-bottom: 18px;
+}
+.services-span{
+    font-weight: 600;
+    color: #1090CB;
+}
+.services-container p{
+    width: 440px;
+    font-family: var(--fontpoppins);
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+color:  #696969;
+margin-left: 70px;
+}
+.services-container-top{
+    width: 70.5%;
+    height: 441px;
+    box-shadow: 0px 4px 114px 0px #00000017;
+    background: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 50px;
+    position: absolute;
+    bottom: -260px;
+    left: 250px;
+}
+.top-services-introduction{
+        width: 34.8%;
+    margin-right: 98px;
+    display: flex;
+    align-items: center;
+}
+.span-services{
+    margin-right: 29px;
+    padding: 25px;
+    border-radius: 20px;
+}
+.bg-1{
+    background: #FFF2F2;
+
+}
+.bg-2{
+    background: #F1E8FF;
+
+}
+.bg-3{
+    background: #E2F3FF;
+
+}
+.bg-4{
+    background: #FFE7FB;
+
+}
+.services-icon-introduction h2{
+    font-family: var(--fontpoppins);
+font-size: 25px;
+font-weight: 500;
+line-height: 44px;
+letter-spacing: 0.01em;
+color: #000000;
+margin-bottom: 6px;
+}
+.services-icon-introduction p{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0.01em;
+color:  #797979;
+}
+.angle{
+    position: absolute;
+    right: 300px;
+    top: 500px;
+}
+/*services-container-2*/
+#services-section-2{
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin-bottom: 132px;
+}
+.services-left-container{
+    width: 516px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 119px;
+
+}
+.services-left-container h3{
+    font-family: var(--fontpoppins);
+font-size: 30px;
+font-weight: 600;
+line-height: 51px;
+letter-spacing: 0em;
+color: #252525;
+margin-bottom: 56px;
+}
+.span-left-text{
+    color: #1090CB;
+}
+.services{
+    font-family: var(--fontpoppins);
+font-size: 16px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+color: #545454;
+}
+.services-text1{
+    margin-bottom: 40px;
+}
+.services-btn{
+    margin-top: 25px;
+    padding: 9px 51px 9px 54px;
+    color: #1090CB;
+    border-radius: 10px;
+    border: 1px solid #1090CB;
+    font-family: var(--fontpoppins);
+font-size: 16px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+}
+/*services-section-3*/
+#services-section-3{
+    background: #1090CB;
+     height: 388px;
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+     margin-bottom: 140px;
+     position: relative;
+}
+.vector-services1{
+position: absolute;
+    left: 100px;
+    top: -100px;
+}
+.vector-services2{
+    position: absolute;
+    left: -10px;
+    bottom: -50px;
+}
+.vector-services3{
+    position: absolute;
+    right: 90px;
+    top: -50px;
+}
+.bell-services{
+    position: absolute;
+    right: 100px;
+    top: -80px;
+}    
+.angle-1{
+    position: absolute;
+    bottom: -50px;
+    transform: rotate(-70deg);
+    left: 250px;
+}
+
+.score-container{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.number{
+    font-family: var(--fontpoppins);
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 116px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+.number-text{
+    font-family: var(--fontpoppins);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+
+}
+/*services-section-4*/
+#services-section-4{
+    margin-bottom: 100px;
+}
+.h4{
+    margin-bottom: 63px;
+    margin-left: 120px;
+    font-family: var(--fontpoppins);
+font-size: 36px;
+font-weight: 500;
+line-height: 64px;
+letter-spacing: 0.01em;
+color: #000000;
+}
+.services-cards{
+    display: flex;
+    margin-left: 119px;
+}
+.card-info{
+    width: 450px;
+    margin-right: 84px;
+}
+.card-header{
+    margin-top: 40px;
+    font-family: var(--fontpoppins);
+font-size: 23px;
+font-weight: 600;
+line-height: 41px;
+letter-spacing: 0.01em;
+color: #000000;
+}
+.span-card-info{
+
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0.01em;
+color: #424242;
+}
