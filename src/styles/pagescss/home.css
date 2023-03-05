@@ -61,6 +61,7 @@ letter-spacing: 0em;
 .left-position{
     position: absolute;
     top:250px;
+    left: 0;
 }
 .right-position{
     position: absolute;
