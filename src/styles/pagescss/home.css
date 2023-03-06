@@ -12,7 +12,7 @@
 
 }
 .title-text1{
-    width: 50%;
+    width: 45%;
 }
 .title-text1 h1{
 font-size: 41px;
@@ -57,6 +57,13 @@ letter-spacing: 0em;
 .btn-light{
     color: var(--btn);
     background-color: var(--bgColor);
+}
+.section-title-img{
+    width: 25%;
+}
+.section-title-img img{
+    display: block;
+    width: 100%;
 }
 .left-position{
     position: absolute;
